@@ -1,0 +1,8 @@
+h1{
+    color: blueviolet(220,5,120);
+    font-size: 30px
+}
+p{
+    color: blue(2,198,71);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
